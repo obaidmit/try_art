@@ -1,0 +1,17 @@
+{
+    "python.pythonPath": "C:\\Users\\Hp\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.testing.pytestArgs": [
+        "templates"
+    ],
+    "python.testing.unittestEnabled": true,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": false,
+    "jupyter.jupyterServerType": "local",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./__pycache__",
+        "-p",
+        "*test.py"
+    ]
+}
